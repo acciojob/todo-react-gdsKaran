@@ -1,7 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
-import ToDoList from "./ToDoList";
+import ToDoList from "./toDoList";
 
 const App = () => {
   return (
